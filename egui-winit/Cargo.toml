@@ -18,7 +18,7 @@ all-features = true
 
 
 [features]
-default = ["clipboard", "dark-light", "links"]
+default = ["dark-light", "links"]
 
 # enable cut/copy/paste to OS clipboard.
 # if disabled a clipboard will be simulated so you can still copy/paste within the egui app.
